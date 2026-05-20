@@ -1,1 +1,1 @@
-npm i mysql2,cons,nodemon,dotenv,express
+npm i mysql2 cors nodemon dotenv express 
